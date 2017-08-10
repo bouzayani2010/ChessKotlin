@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChessKotlin</string>
+    <string name="title">Chess Online Game</string>
+</resources>

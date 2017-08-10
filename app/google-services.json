@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "563099371681",
+    "firebase_url": "https://chesskotlin.firebaseio.com",
+    "project_id": "chesskotlin",
+    "storage_bucket": "chesskotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563099371681:android:bfe324d76a5fb627",
+        "android_client_info": {
+          "package_name": "com.project.chesskotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563099371681-o4fdb53ldrs8cpu7b7hbbjjg7jemqeh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.chesskotlin",
+            "certificate_hash": "5c5924d9f7a5a5480e705018133847693249a16d"
+          }
+        },
+        {
+          "client_id": "563099371681-0hdif9nfp70tnj09bfvosbn6rcla6lo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmuLBwgQh7YOwfzRYMCMj1PxsZR3hI8A4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563099371681-0hdif9nfp70tnj09bfvosbn6rcla6lo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
