@@ -5,4 +5,11 @@
     android:background="@android:drawable/editbox_background_normal"
     android:orientation="vertical">
 
+    <FrameLayout
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+
+    </FrameLayout>
 </LinearLayout>
